@@ -1,0 +1,6 @@
+Git repository for my "Text Changer" program.
+
+Program made in Java which changes text inputted by the user according to rules the user specifies.
+
+Uses a GUI and makes use of the model,view,controller design pattern (with the controller and view within the same class).
+
